@@ -1,0 +1,55 @@
+2025/11/09-08:31:09.267 484 Reusing MANIFEST C:\Users\zeeha\AppData\Local\Temp\flutter_tools.772850f3\flutter_tools_chrome_device.6d41c570\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/11/09-08:31:09.269 484 Recovering log #4
+2025/11/09-08:31:09.269 484 Level-0 table #7: started
+2025/11/09-08:31:09.293 484 Level-0 table #7: 208 bytes OK
+2025/11/09-08:31:09.293 484 Recovering log #7
+2025/11/09-08:31:09.293 484 Level-0 table #8: started
+2025/11/09-08:31:09.295 484 Level-0 table #8: 276 bytes OK
+2025/11/09-08:31:09.295 484 Recovering log #10
+2025/11/09-08:31:09.296 484 Level-0 table #9: started
+2025/11/09-08:31:09.297 484 Level-0 table #9: 276 bytes OK
+2025/11/09-08:31:09.298 484 Recovering log #13
+2025/11/09-08:31:09.298 484 Level-0 table #11: started
+2025/11/09-08:31:09.301 484 Level-0 table #11: 276 bytes OK
+2025/11/09-08:31:09.301 484 Recovering log #16
+2025/11/09-08:31:09.301 484 Level-0 table #14: started
+2025/11/09-08:31:09.324 484 Level-0 table #14: 384 bytes OK
+2025/11/09-08:31:09.324 484 Recovering log #19
+2025/11/09-08:31:09.324 484 Level-0 table #17: started
+2025/11/09-08:31:09.326 484 Level-0 table #17: 276 bytes OK
+2025/11/09-08:31:09.327 484 Recovering log #23
+2025/11/09-08:31:09.327 484 Level-0 table #20: started
+2025/11/09-08:31:09.329 484 Level-0 table #20: 243 bytes OK
+2025/11/09-08:31:09.330 484 Recovering log #26
+2025/11/09-08:31:09.330 484 Level-0 table #24: started
+2025/11/09-08:31:09.333 484 Level-0 table #24: 208 bytes OK
+2025/11/09-08:31:09.333 484 Recovering log #29
+2025/11/09-08:31:09.333 484 Level-0 table #27: started
+2025/11/09-08:31:09.336 484 Level-0 table #27: 322 bytes OK
+2025/11/09-08:31:09.336 484 Recovering log #32
+2025/11/09-08:31:09.337 484 Reusing old log C:\Users\zeeha\AppData\Local\Temp\flutter_tools.772850f3\flutter_tools_chrome_device.6d41c570\Default\EdgeCoupons/coupons_data.db/000032.log 
+2025/11/09-08:31:09.339 484 Delete type=0 #4
+2025/11/09-08:31:09.339 484 Delete type=0 #7
+2025/11/09-08:31:09.340 484 Delete type=0 #10
+2025/11/09-08:31:09.340 484 Delete type=0 #13
+2025/11/09-08:31:09.340 484 Delete type=0 #16
+2025/11/09-08:31:09.340 484 Delete type=0 #19
+2025/11/09-08:31:09.340 484 Delete type=2 #21
+2025/11/09-08:31:09.340 484 Delete type=0 #23
+2025/11/09-08:31:09.341 484 Delete type=0 #26
+2025/11/09-08:31:09.341 484 Delete type=0 #29
+2025/11/09-08:31:09.341 484 Delete type=2 #30
+2025/11/09-08:31:09.341 484 Delete type=2 #34
+2025/11/09-08:31:09.346 58b8 Compacting 9@0 + 0@1 files
+2025/11/09-08:31:09.347 58b8 Generated table #33@0: 4 keys, 195 bytes
+2025/11/09-08:31:09.347 58b8 Compacted 9@0 + 0@1 files => 195 bytes
+2025/11/09-08:31:09.348 58b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/09-08:31:09.348 58b8 Delete type=2 #7
+2025/11/09-08:31:09.348 58b8 Delete type=2 #8
+2025/11/09-08:31:09.348 58b8 Delete type=2 #9
+2025/11/09-08:31:09.349 58b8 Delete type=2 #11
+2025/11/09-08:31:09.349 58b8 Delete type=2 #14
+2025/11/09-08:31:09.349 58b8 Delete type=2 #17
+2025/11/09-08:31:09.349 58b8 Delete type=2 #20
+2025/11/09-08:31:09.349 58b8 Delete type=2 #24
+2025/11/09-08:31:09.349 58b8 Delete type=2 #27
